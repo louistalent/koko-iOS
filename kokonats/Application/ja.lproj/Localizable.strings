@@ -1,0 +1,87 @@
+/* 
+  Localizable.strings
+  kokonats
+
+  Created by sean on 2022/02/09.
+  
+*/
+"home_tnm_title" = "トーナメント";
+"home_game_title" = "ゲーム";
+"home_game_card_title" = "今すぐプレイ";
+"home_banner_congra_word" = "おめでとうございます! ";
+"home_banner_1000_koko" = "1,000ココ";
+"home_banner_gained_word" = "獲得! ";
+"home_tnm_join_tag" = "で参加";
+
+"user_tnmhistory_title" = "トーナメント参加履歴";
+"user_tnmhistory_all_title" = "トーナメント\n参加履歴";
+"user_tnmhistory_all_allScore_title" = "合計";
+"user_tnmhistory_all_allScore_button_title" = "全部";
+"user_tnmhistory_all_button_title" = "もっと見る";
+"user_logout_label" = "ログアウト";
+"user_logout_message_title" = "ログアウトしますか";
+"user_logout_ok" = "はい";
+"user_logout_cancel" = "キャンセル";
+
+
+"shop_title" = "ショップ";
+"energy_item_title" = "工ナヅー";
+"shop_item_title" = "アイテム";
+"shop_purchased_label" = "購入済み";
+"shop_purchased_confirm_label" = "購入していいですか？";
+"purchase_confirm_ok" = "購入";
+"purchase_confirm_no" = "キャンセル";
+"shop_403_koko_error_title" = "購入が失敗しました";
+"shop_403_koko_error_description" = "kokoが足りません";
+"shop_403_koko_error_button" = "OK";
+
+
+"tnmvc_button_full_title" = "満員";
+"tnmvc_button_join_title" = "今すぐ参加";
+"tnmvc_button_enternow_title" = "今すぐ参加";
+"tnmvc_button_playnow_title" = "今すぐプレイ";
+"tnmvc_button_playagain_title" = "再びプレー";
+"alert_entryfee_title" = "トーナメントに参加";
+"alert_entryfee_content" = "100エナジーを消費して\r\n参加しますか？";
+"tnmvc_button_finished_title" = "終了";
+"tnmvc_button_unknown" = "未定";
+"tnmvc_ranking_label_title" = "スコアランキング";
+"tnmvc_rules_label_title" = "ルール";
+
+"matching_title" = "マッチング";
+"matching_message_title" = "マッチング開始";
+"matching_message_cancel" = "キャンセル";
+"matching_message_go" = "GO!";
+
+"tutorial1_content" = "エナジーを使用して\nゲームに参加しよう！\nエナジーはストアから\n購入できます";
+"tutorial2_content" = "トーナメントに参加して\nココナッツを稼ごう！\n貯めたココナッツで\nアイテムをゲット";
+"tutorial3_content" = "稼いだココナッツは\n交換もできる！";
+"tutorial3_connect" = "タップでスタート";
+
+"matching_dot_char" = "・";
+"all_tag" = "全部";
+"tournament_tag" = "トーナメント";
+"practice_tag" = "練習";
+"result_ranking" = "取得順位";
+"result_view_result_win" = "WIN";
+"result_view_result_lost" = "LOST";
+"result_view_result_draw" = "DRAW";
+"result_view_result_playing" = "PLAYING";
+"score_title" = "スコア";
+"join_game" = "今すぐ参加";
+"rule_title" = "ルール";
+"back_home" = "ホームに戻る";
+"play_again" = "もう一度参加";
+
+"confirm_ok" = "はい";
+"confirm_no" = "いいえ";
+
+
+"error_failed_join_title" = "参加できませんでした";
+"error_need_to_login_first" = "先にログインしてください。";
+"error_reason_game_not_start" = "ゲームがスタートしていません";
+
+// MARK: - Chat
+"chat.elem.channel" = "オープン";
+"chat.elem.message" = "ダイレクト";
+"chat.elem.support" = "運営";
